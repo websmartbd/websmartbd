@@ -1,7 +1,5 @@
 # 👋 Hello, I'm WebSmartBD!
 
-![WebSmartBD's GitHub Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+WebSmartBD)
-
 ### 🚀 About Me
 I'm a **passionate developer & entrepreneur** from **Bangladesh** 🇧🇩, dedicated to crafting digital experiences that make a difference. I specialize in **PHP, Laravel, MySQL, Tailwind CSS, JavaScript, and Flutter/React Native** and love to build impactful solutions that solve real-world problems.
 
