@@ -3,27 +3,7 @@
 [![WebSmartBD's GitHub Banner](https://source.unsplash.com/1200x400/?technology,code)](#)
 
 ### 🚀 About Me
-I'm a **passionate developer & entrepreneur** from **Bangladesh** 🇧🇩, crafting digital experiences that make a difference. I love building innovative solutions using **PHP, Laravel, MySQL, Tailwind CSS, JavaScript, and Flutter/React Native**.
-
-💻 **I create:**
-- 🎯 **Freelancing Marketplaces** – Empowering freelancers and businesses.
-- 🔥 **AI-Powered Pickup Line Generator** – Generate creative pickup lines instantly.
-- 💬 **Kotha** – An anonymous letter communication platform.
-- 📚 **Group Study Coordination App** – Simplifying student collaboration.
-- 🛒 **TSTECH** – Your go-to place for PC parts and books.
-
-### 🚀 Featured Projects
-Here are some of my top projects:
-
-🔹 **[Freelancing Marketplace](https://github.com/websmartbd/freelancing-marketplace)** - A complete platform to connect freelancers with clients.
-
-🔹 **[AI-Powered Pickup Line Generator](https://github.com/websmartbd/pickup-line-generator)** - A fun web app using AI to generate personalized pickup lines.
-
-🔹 **[Kotha - Anonymous Letters](https://github.com/websmartbd/kotha)** - A secure and private letter-sharing platform.
-
-🔹 **[Temporary Email System](https://github.com/websmartbd/temp-email)** - Generate temporary emails with inbox functionality.
-
-🔹 **[Islamic Character Analysis App](https://github.com/websmartbd/islamic-character-analysis)** - An app dedicated to exploring Islamic figures and their teachings.
+I'm a **passionate developer & entrepreneur** from **Bangladesh** 🇧🇩, dedicated to crafting digital experiences that make a difference. My expertise includes **PHP, Laravel, MySQL, Tailwind CSS, JavaScript, and Flutter/React Native**.
 
 ### 💡 Tech Stack
 🚀 **Languages & Frameworks:**
@@ -32,10 +12,25 @@ Here are some of my top projects:
 📱 **Mobile Development:**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 
-🔗 **Connect with Me:**
+### 🚀 Featured Projects
+Here are some of my notable projects:
+
+- **[Domain Authentication Manager](https://github.com/websmartbd/Domain-Authentication-Manager)**  
+  A PHP-based application designed to manage and authenticate domains efficiently.
+
+- **[Domain Validator Plugin](https://github.com/websmartbd/Domain-Validator-Plugin)**  
+  A plugin that validates domain names to ensure they meet specified criteria.
+
+- **[ParentWeb](https://github.com/websmartbd/ParentWeb)**  
+  A parental control web application designed to help parents monitor and manage their children's online activity.
+
+- **[Weather Report](https://github.com/websmartbd/Weather-Report)**  
+  A simple yet effective weather application that provides real-time weather updates for various locations.
+
+### 🔗 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:codebazarbd.com@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/websmartbd)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=internet-explorer&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=internet-explorer&logoColor=white)](https://bmshifat.zya.me/)
 
 📢 **Fun Fact:**
 I once ranked myself as the **most handsome man in my area**—just for fun! 😆
