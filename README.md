@@ -12,6 +12,19 @@ I'm a **passionate developer & entrepreneur** from **Bangladesh** 🇧🇩, craf
 - 📚 **Group Study Coordination App** – Simplifying student collaboration.
 - 🛒 **TSTECH** – Your go-to place for PC parts and books.
 
+### 🚀 Featured Projects
+Here are some of my top projects:
+
+🔹 **[Freelancing Marketplace](https://github.com/websmartbd/freelancing-marketplace)** - A complete platform to connect freelancers with clients.
+
+🔹 **[AI-Powered Pickup Line Generator](https://github.com/websmartbd/pickup-line-generator)** - A fun web app using AI to generate personalized pickup lines.
+
+🔹 **[Kotha - Anonymous Letters](https://github.com/websmartbd/kotha)** - A secure and private letter-sharing platform.
+
+🔹 **[Temporary Email System](https://github.com/websmartbd/temp-email)** - Generate temporary emails with inbox functionality.
+
+🔹 **[Islamic Character Analysis App](https://github.com/websmartbd/islamic-character-analysis)** - An app dedicated to exploring Islamic figures and their teachings.
+
 ### 💡 Tech Stack
 🚀 **Languages & Frameworks:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
