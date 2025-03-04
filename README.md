@@ -16,16 +16,16 @@ I'm a **passionate developer & entrepreneur** from **Bangladesh** 🇧🇩, dedi
 Here are some of my notable projects:
 
 - **[Domain Authentication Manager](https://github.com/websmartbd/Domain-Authentication-Manager)**  
-  A PHP-based application designed to manage and authenticate domains efficiently.
+  A PHP-based application designed to manage and authenticate domains efficiently. It helps website owners verify domain ownership and streamline authentication processes with security features.
 
 - **[Domain Validator Plugin](https://github.com/websmartbd/Domain-Validator-Plugin)**  
-  A plugin that validates domain names to ensure they meet specified criteria.
+  A powerful plugin that validates domain names, ensuring they adhere to specific criteria and security standards. It assists developers in managing domain-related operations seamlessly.
 
 - **[ParentWeb](https://github.com/websmartbd/ParentWeb)**  
-  A parental control web application designed to help parents monitor and manage their children's online activity.
+  A comprehensive parental control web application designed to help parents monitor and manage their children's online activity. Features include website filtering, screen time management, and real-time activity tracking.
 
 - **[Weather Report](https://github.com/websmartbd/Weather-Report)**  
-  A simple yet effective weather application that provides real-time weather updates for various locations.
+  A weather application that provides real-time weather updates, forecasts, and alerts for different locations. It leverages API integration for accurate and reliable meteorological data.
 
 ### 🔗 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:codebazarbd.com@gmail.com)
