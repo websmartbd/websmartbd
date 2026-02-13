@@ -35,6 +35,6 @@ You can reach out to me through the following platforms:
 [![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=internet-explorer&logoColor=white)](https://bmshifat.pro.bd/)
 
 ### 📢 Fun Fact:
-I once ranked myself as the **most handsome man in my area**—just for fun! 😆
+I once ranked myself as the **Most Handsome Developer In Bangladesh**—just for fun! 😆
 
 ⚡ **Let's Build Something Amazing Together!**
