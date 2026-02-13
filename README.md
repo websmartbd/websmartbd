@@ -30,9 +30,9 @@ Here are some of my notable projects:
 ### 🔗 Connect with Me
 You can reach out to me through the following platforms:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:codebazarbd.com@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bmshifat0@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/websmartbd)  
-[![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=internet-explorer&logoColor=white)](https://bmshifat.zya.me/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=internet-explorer&logoColor=white)](https://bmshifat.pro.bd/)
 
 ### 📢 Fun Fact:
 I once ranked myself as the **most handsome man in my area**—just for fun! 😆
