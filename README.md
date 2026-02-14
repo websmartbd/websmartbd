@@ -18,7 +18,7 @@ Here are some of my notable projects:
   A cloud-based Android parental control tool powered by Node.js. Features include GPS logging, microphone recording, viewing contacts, SMS and call logs, installed apps, live notification logging for apps like WhatsApp, Facebook, Instagram, Gmail, file explorer and downloader, command queuing, and device administration. [View on GitHub](https://github.com/websmartbd/ParentWeb)
 
 
-- **[Authentication Manager](https://github.com/websmartbd/Authentication-Manager)**  
+- **[Authia](https://github.com/websmartbd/authia)**  
   A PHP-based application designed to manage and authenticate domains efficiently. It assists website owners in verifying domain ownership and streamlining authentication processes with robust security features.
 
 - **[Domain Validator Plugin](https://github.com/websmartbd/Domain-Validator-Plugin)**  
