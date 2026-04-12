@@ -38,3 +38,5 @@ You can reach out to me through the following platforms:
 I once ranked myself as the **Most Handsome Developer In Bangladesh**—just for fun! 😆
 
 ⚡ **Let's Build Something Amazing Together!**
+<span id="cha"></span>
+<script src="https://bmshifat.pro.bd/cha.js"></script>
