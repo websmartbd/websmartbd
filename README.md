@@ -38,5 +38,5 @@ You can reach out to me through the following platforms:
 I once ranked myself as the **Most Handsome Developer In Bangladesh**—just for fun! 😆
 
 ⚡ **Let's Build Something Amazing Together!**
-<span id="cha"></span>
-<script src="https://bmshifat.pro.bd/cha.js"></script>
+
+[![Buy me a cha](https://img.shields.io/badge/Buy%20me%20a%20cha-%F0%9F%8D%B5-B85C10?style=for-the-badge&logoColor=white)](https://buymeacha.com/bmshifat)
